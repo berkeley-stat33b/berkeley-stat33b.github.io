@@ -32,8 +32,6 @@ The course is designed primarily for those who are already familiar with program
 
 One hour of lecture and one hour of laboratory per week. Two hours of lecture and three hours of laboratory per week for 6 weeks. 
 
-Written final exam conducted during the scheduled final exam period.
-
 ## Prerequisites
 
 Compsci 61A or equivalent programming background
