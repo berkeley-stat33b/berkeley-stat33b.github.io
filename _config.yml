@@ -15,8 +15,8 @@
 # in the templates via \{\{ site.myvariable \}\}.
 title: "Stat 33b: Introduction to Advanced Programming in R"
 tagline: Course Overview
-description: The course is designed primarily for those who are already familiar with programming in another language, such as python, and want to understand how R works, and for those who already know the basics of R programming and want to gain a more in-depth understanding of the language in order to improve their coding. The focus is on the underlying paradigms in R, such as functional programming, atomic vectors, complex data structures, environments, and object systems. The goal of this course is to better understand programming principles in general and to write better R code that capitalizes on the language's design.
-
+description: "The course is designed primarily for those who are already familiar with programming in another language, such as python, and want to understand how R works, and for those who already know the basics of R programming and want to gain a more in-depth understanding of the language in order to improve their coding. The focus is on the underlying paradigms in R, such as functional programming, atomic vectors, complex data structures, environments, and object systems. The goal of this course is to better understand programming principles in general and to write better R code that capitalizes on the language's design.
+"
 author: SCF
 baseurl: '' # the subpath of your site, e.g. /blog
 url: 'https://stat33b.berkeley.edu'
