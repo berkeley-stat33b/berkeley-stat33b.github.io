@@ -14,7 +14,7 @@ UC Berkeley
 {: .mb-0 .fs-6 .text-grey-dk-000 }
 
 
-## Offerings
+[//]: # ## Offerings
 
 [//]: # (Items below should be of the form [Semester YYYY](semester-year)
 
